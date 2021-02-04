@@ -1,8 +1,8 @@
 # Eventapp
 Live URL : http://eventapp.atwebpages.com
 
-LANGUAGE : PHP
-DATABASE: MYSQL
+Language : PHP
+Database: MYSQL
 
 #installation
 
